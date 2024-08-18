@@ -1,4 +1,4 @@
-![logo](https://github.com/gulshan8383/Gulshan-Kumar/blob/main/Yellow%20%26%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/gulshan8383/gulshan8383/blob/main/Yellow%20%26%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
