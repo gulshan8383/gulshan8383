@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DSA, NEXTJS, TYPESCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://main--gulshanportfolio1.netlify.app/](https://main--gulshanportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://main--gulshanportfolio1.netlify.app/](https://gulshanprofile.vercel.app/)
 
 - 💬 Ask me about **React, Tailwind, MongoDb, Express, Nodejs**
 
