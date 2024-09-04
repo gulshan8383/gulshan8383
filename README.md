@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/gulshan kumar" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan kumar?logo=twitter&style=for-the-badge" alt="gulshan kumar" /></a> </p>
 
 - 🔭 I’m currently working on [IDC India Website](https://idc-india.vercel.app/)
-- 🔭 I’m currently working on [IDC India Website](https://mehendi-art.vercel.app/)
+- 🔭 I’m currently working on [Mehendiart Website](https://mehendi-art.vercel.app/)
 
 - 🌱 I’m currently learning **DSA, NEXTJS, TYPESCRIPT**
 
