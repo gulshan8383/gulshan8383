@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/gulshan kumar" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan kumar?logo=twitter&style=for-the-badge" alt="gulshan kumar" /></a> </p>
 - 🔭 I’m currently working on [IDC India Website](https://idc-india.vercel.app/)<br/>
 - 🔭 I’m currently working on [Mehendiart Website](https://mehendi-art.vercel.app/)<br/>
-- 🔭 I’m currently working on [Mehendiart Website](https://mai-court.vercel.app/)<br/>
--  🔭 I’m currently working on [Mehendiart Website](https://ag-kraft.vercel.app/)<br/>
+- 🔭 I’m currently working on [mAIcourt Website](https://mai-court.vercel.app/)<br/>
+-  🔭 I’m currently working on [AGKraft Website](https://ag-kraft.vercel.app/)<br/>
 
 - 🌱 I’m currently learning **DSA, NEXTJS, TYPESCRIPT**
 
