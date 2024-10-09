@@ -8,10 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshan8383" alt="gulshan8383" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gulshan kumar" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan kumar?logo=twitter&style=for-the-badge" alt="gulshan kumar" /></a> </p>
-- 🔭 I’m currently working on [IDC India Website](https://idc-india.vercel.app/)
-- 🔭 I’m currently working on [Mehendiart Website](https://mehendi-art.vercel.app/)
-- 🔭 I’m currently working on [Mehendiart Website](https://mai-court.vercel.app/)
--  🔭 I’m currently working on [Mehendiart Website](https://ag-kraft.vercel.app/)
+- 🔭 I’m currently working on [IDC India Website](https://idc-india.vercel.app/)<br/>
+- 🔭 I’m currently working on [Mehendiart Website](https://mehendi-art.vercel.app/)<br/>
+- 🔭 I’m currently working on [Mehendiart Website](https://mai-court.vercel.app/)<br/>
+-  🔭 I’m currently working on [Mehendiart Website](https://ag-kraft.vercel.app/)<br/>
 
 - 🌱 I’m currently learning **DSA, NEXTJS, TYPESCRIPT**
 
